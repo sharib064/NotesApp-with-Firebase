@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185763981989",
+    "project_id": "notesonline-1f250",
+    "storage_bucket": "notesonline-1f250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185763981989:android:33d9b19a96eb4515333b4c",
+        "android_client_info": {
+          "package_name": "com.example.notesonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhFGHG9HcsBB3E36WwDudVJW3Tp-ZZQ9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
